@@ -1,7 +1,7 @@
 /**
  * Site header
  */
-.site-header {
+.site-header {//About
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
@@ -10,13 +10,14 @@
     position: relative;
 }
 
-.site-title {
-    font-size: 26px;
+.site-title {//hello 潭老师
+    font-size: 36px;
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    font-weight: bold;
 
     &,
     &:visited {
