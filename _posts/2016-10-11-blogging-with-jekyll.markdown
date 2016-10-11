@@ -6,7 +6,7 @@ categories: github-pages bundle jekyll
 ---
 【笔者注】 感谢涛哥的悉心教授与耐心讲解
 
-* [风雪夜归人(lutaoact)](https://github.com/lutaoact)
+>[风雪夜归人( lutaoact )](https://github.com/lutaoact)
 
 主要流程参考[Github Pages][github-pages]
 
